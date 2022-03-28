@@ -1,4 +1,4 @@
 first line from branch 1 = 2010
 second line = 2011
-third line = 2012
+third line from branch_two = 2012
 fourth line = 2014
